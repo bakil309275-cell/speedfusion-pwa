@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="150" height="150">
+</p>
 
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
 
@@ -8,15 +10,6 @@
 
 ## 🏆 إنجاز PageSpeed Insights
 
-```
-
-╔══════════════════════════════════════╗
-║    100%  ║  100%  ║  100%  ║  100%  ║
-║  الأداء  │إمكانية │أفضل    │  تحسين │
-║          │الوصول  │الممارسات│محركات │
-╚══════════════════════════════════════╝
-
-```
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -70,34 +63,6 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 cd speedfusion-pwa
 
 # افتح index.html في متصفحك
-```
-
-📄 سياسة الخصوصية
-
-نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
-
-🤝 المساهمة
-
-نرحب بمساهماتكم! يمكنك:
-
-· فتح Issue
-· إرسال Pull Request
-· اقتراح ميزات جديدة
-
-📞 التواصل
-
-· GitHub: @bakil309275-cell
-· البريد الإلكتروني: support@speedfusion-pro.com
-
-📜 الترخيص
-
-هذا المشروع مرخص تحت MIT License.
-
----
-
-📁 هيكل المشروع (Project Structure)
-
-```
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -133,20 +98,3 @@ cd speedfusion-pwa
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
-```
-
-تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
-
----
-
-🏆 لماذا SpeedFusion Pro؟
-
-· ✅ الأسرع - خوارزميات تحسين فريدة
-· ✅ الأذكى - يتعلم من استخدامك ويتكيف معك
-· ✅ الأكثر أماناً - تشفير وحماية متطورة
-· ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
-
-<div align="center">
-    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
-</div>
-```
