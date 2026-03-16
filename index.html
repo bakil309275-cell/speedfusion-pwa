@@ -1,4 +1,3 @@
-cat > index.html << 'EOF'
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -23,7 +22,7 @@ cat > index.html << 'EOF'
         .btn { width: 100%; padding: 1rem; border: none; border-radius: 2rem; background: linear-gradient(45deg, #667eea, #764ba2); color: white; font-size: 1.2rem; font-weight: bold; cursor: pointer; transition: transform 0.2s; margin-bottom: 0.5rem; }
         .btn:active { transform: scale(0.98); }
         .btn-outline { background: transparent; border: 1px solid #667eea; color: #667eea; }
-        .features-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; margin: 1rem 0; width: 100%; }
+        .features-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; margin: 1rem 0; }
         .feature { background: rgba(255,255,255,0.03); border-radius: 1rem; padding: 1rem; text-align: center; border: 1px solid rgba(255,255,255,0.05); cursor: pointer; transition: all 0.3s; }
         .feature:hover { transform: translateY(-3px); background: rgba(102, 126, 234, 0.1); border-color: #667eea; }
         .feature.active { background: linear-gradient(135deg, rgba(102, 126, 234, 0.2), rgba(118, 75, 162, 0.2)); border-color: #667eea; }
@@ -58,7 +57,6 @@ cat > index.html << 'EOF'
     </style>
 </head>
 <body>
-    <main>
     <div class="container">
         <div class="header">
             <h1>⚡ SpeedFusion Pro</h1>
@@ -131,7 +129,6 @@ cat > index.html << 'EOF'
             © 2026 SpeedFusion Pro - الإصدار 2.0.0 (الأسرع في العالم)
         </div>
     </div>
-    </main>
 
     <!-- DNS Modal -->
     <div class="modal" id="dnsModal">
@@ -599,4 +596,3 @@ cat > index.html << 'EOF'
     </script>
 </body>
 </html>
-EOF
