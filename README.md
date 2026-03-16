@@ -108,3 +108,11 @@ cd speedfusion-pwa
     <em>AL-YEMENI 🇾🇪</em>
   </sub>
 </div>
+
+## 📸 لقطات الشاشة
+
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1773695154692.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1773695154704.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1773695154715.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1773695154725.jpg" width="150"> |
+
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
