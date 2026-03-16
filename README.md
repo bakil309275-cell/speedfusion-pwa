@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="150" height="150">
+  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
 
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
