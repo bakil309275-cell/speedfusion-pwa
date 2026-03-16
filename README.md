@@ -1,4 +1,4 @@
-```markdown
+
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
@@ -46,7 +46,7 @@
 ## 📱 لقطات الشاشة
 | الشاشة الرئيسية | إعدادات DNS | الإحصائيات |
 |-----------------|-------------|------------|
-| ![الشاشة الرئيسية](docs/icon-192.png) | ![إعدادات DNS](docs/icon-192.png) | ![الإحصائيات](docs/icon-192.png) |
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |
 
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
@@ -106,9 +106,19 @@ cd speedfusion-pwa
 ├── 📄 manifest.json
 ├── 📄 sw.js
 ├── 📄 privacy.html
-├── 📄 icon-192.png
-├── 📄 icon-512.png
-├── 📄 README.md.backup
+├── 📁 public/
+│   └── 📁 icons/
+│       ├── 📄 icon-48x48.png
+│       ├── 📄 icon-72x72.png
+│       ├── 📄 icon-96x96.png
+│       ├── 📄 icon-128x128.png
+│       ├── 📄 icon-144x144.png
+│       ├── 📄 icon-152x152.png
+│       ├── 📄 icon-192x192.png
+│       ├── 📄 icon-256x256.png
+│       ├── 📄 icon-384x384.png
+│       ├── 📄 icon-512x512.png
+│       └── 📄 maskable-icon-512x512.png
 ├── 📁 docs/
 │   ├── 📄 index.html
 │   ├── 📄 manifest.json
@@ -117,8 +127,8 @@ cd speedfusion-pwa
 │   ├── 📄 sitemap.xml
 │   ├── 📄 LICENSE
 │   ├── 📄 README.md
-│   ├── 📄 icon-192.png
-│   ├── 📄 icon-512.png
+│   ├── 📁 icons/
+│   │   └── ... (نفس الأيقونات)
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
@@ -136,16 +146,7 @@ cd speedfusion-pwa
 · ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
 
 <div align="center">
-    © 2026 SpeedFusion Pro - صنع في اليمن اعداد شيخ سامع / بكيل العيسائي 🇾🇪
+    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
 </div>
 ```
-
-<p align="center">
-  <img src="docs/icons/icon-192x192.png" alt="SpeedFusion Pro Logo" width="120" height="120">
-</p>
-
-
-<p align="center">
-  <img src="docs/icons/icon-192x192.png" alt="SpeedFusion Pro Logo" width="120" height="120">
-</p>
 
