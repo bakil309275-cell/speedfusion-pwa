@@ -98,3 +98,13 @@ cd speedfusion-pwa
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
+
+
+---
+
+<div align="left">
+  <sub>
+    <strong>شيخ سامع / بكيل العيسائي</strong><br>
+    <em>AL-YEMENI 🇾🇪</em>
+  </sub>
+</div>
