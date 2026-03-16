@@ -139,3 +139,13 @@ cd speedfusion-pwa
     © 2026 SpeedFusion Pro - صنع في اليمن اعداد شيخ سامع / بكيل العيسائي 🇾🇪
 </div>
 ```
+
+<p align="center">
+  <img src="docs/icons/icon-192x192.png" alt="SpeedFusion Pro Logo" width="120" height="120">
+</p>
+
+
+<p align="center">
+  <img src="docs/icons/icon-192x192.png" alt="SpeedFusion Pro Logo" width="120" height="120">
+</p>
+
