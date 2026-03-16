@@ -50,3 +50,7 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 cd speedfusion-pwa
 
 # افتح index.html في متصفحك
+
+
+## 🏆 إنجاز PageSpeed Insights
+
