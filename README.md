@@ -10,14 +10,6 @@
 
 ## 🏆 إنجاز PageSpeed Insights
 
----
-
-╔══════════════════════════════════════╗
-║    100%  ║  100%  ║  100%  ║  100%  ║
-║  الأداء  │إمكانية │أفضل    │  تحسين │
-║          │الوصول  │الممارسات│محركات │
-╚══════════════════════════════════════╝
----
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -46,9 +38,10 @@
 - GitHub Pages
 
 ## 📱 لقطات الشاشة
-| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|-------------|---------------|
-| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-192x192.png) |
+| الشاشة الرئيسية | إعدادات DNS | الإحصائيات |
+|-----------------|-------------|------------|
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |
+
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
@@ -106,6 +99,7 @@ cd speedfusion-pwa
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
 
+
 ---
 
 <div align="left">
@@ -115,26 +109,18 @@ cd speedfusion-pwa
   </sub>
 </div>
 
-## 📄 سياسة الخصوصية
+## 📸 لقطات الشاشة
 
-نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154692.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154704.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154715.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154725.jpg" width="150"> |
 
-🤝 المساهمة
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
 
-نرحب بمساهماتكم! يمكنك:
+## 📸 لقطات الشاشة
 
-· فتح Issue
-· إرسال Pull Request
-· اقتراح ميزات جديدة
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="screenshots/4.jpg" width="150"> |
 
-📞 التواصل
-
-· GitHub: @bakil309275-cell
-· البريد الإلكتروني: support@speedfusion-pro.com
-
-📜 الترخيص
-
-هذا المشروع مرخص تحت MIT License.
-
----
-
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
