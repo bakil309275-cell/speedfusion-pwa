@@ -1,31 +1,23 @@
-
-
-```markdown
-<!-- SECTION_LOGO -->
 <p align="center">
   <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
 
-<!-- SECTION_TITLE -->
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
 
-<!-- SECTION_BADGES -->
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![PWA](https://img.shields.io/badge/PWA-ready-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
-<!-- SECTION_PAGESPEED -->
 ## 🏆 إنجاز PageSpeed Insights
 
-```
+---
 
 ╔══════════════════════════════════════╗
 ║    100%  ║  100%  ║  100%  ║  100%  ║
 ║  الأداء  │إمكانية │أفضل    │  تحسين │
 ║          │الوصول  │الممارسات│محركات │
 ╚══════════════════════════════════════╝
-
-```
+---
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -33,11 +25,9 @@
 
 ---
 
-<!-- SECTION_OVERVIEW -->
 ## 🎯 نظرة عامة
 **SpeedFusion Pro** هو تطبيق ويب تقدمي (PWA) متطور لتحسين سرعة النظام والإنترنت مع توفير البطارية. تم بناؤه بأحدث التقنيات لتقديم تجربة مستخدم فائقة السرعة والكفاءة.
 
-<!-- SECTION_FEATURES -->
 ### ✨ الميزات الرئيسية
 - 🚀 **سرعة فائقة** - تحسين فوري لأداء الشبكة
 - 🔒 **أمان تام** - حماية خصوصيتك وتشفير البيانات
@@ -48,7 +38,6 @@
 - ⚙️ **إعدادات متطورة** - تحكم كامل بكل الميزات
 - 💾 **حفظ تلقائي** - لا تفقد بياناتك أبداً
 
-<!-- SECTION_TECH -->
 ## 🛠️ التقنيات المستخدمة
 - HTML5 / CSS3
 - JavaScript (ES6+)
@@ -56,49 +45,47 @@
 - LocalStorage API
 - GitHub Pages
 
-<!-- SECTION_SCREENSHOTS_ICONS -->
-## 📱 لقطات الشاشة (أيقونات تمثيلية)
+## 📱 لقطات الشاشة
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
-| <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> |
-
-<!-- SECTION_QUICKSTART -->
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-192x192.png) |
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
 3. استكشف جميع الميزات
 4. ثبّت التطبيق على شاشتك الرئيسية (إضافة إلى الشاشة الرئيسية)
 
-<!-- SECTION_APK -->
 ## 📦 التثبيت كتطبيق APK
 1. اذهب إلى [PWABuilder](https://www.pwabuilder.com)
 2. أدخل الرابط: `https://bakil309275-cell.github.io/speedfusion-pwa/`
 3. اضغط "Package for Stores" → Android
 4. حمل ملف APK وثبته على هاتفك
 
-<!-- SECTION_PRIVACY -->
-## 📄 سياسة الخصوصية
-نحن نهتم بخصوصيتك. راجع [سياسة الخصوصية](privacy.html) الكاملة.
+---
 
-<!-- SECTION_CONTRIBUTE -->
-## 🤝 المساهمة
+##📄 سياسة الخصوصية
+
+نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
+
+🤝 المساهمة
+
 نرحب بمساهماتكم! يمكنك:
-- فتح [Issue](https://github.com/bakil309275-cell/speedfusion-pwa/issues)
-- إرسال [Pull Request](https://github.com/bakil309275-cell/speedfusion-pwa/pulls)
-- اقتراح ميزات جديدة
 
-<!-- SECTION_CONTACT -->
-## 📞 التواصل
-- GitHub: [@bakil309275-cell](https://github.com/bakil309275-cell)
-- البريد الإلكتروني: support@speedfusion-pro.com
+· فتح Issue
+· إرسال Pull Request
+· اقتراح ميزات جديدة
 
-<!-- SECTION_LICENSE -->
-## 📜 الترخيص
-هذا المشروع مرخص تحت [MIT License](LICENSE).
+📞 التواصل
+
+· GitHub: @bakil309275-cell
+· البريد الإلكتروني: support@speedfusion-pro.com
+
+📜 الترخيص
+
+هذا المشروع مرخص تحت MIT License.
 
 ---
 
-<!-- SECTION_DEV -->
 ## 🔧 التطوير المحلي
 ```bash
 # استنساخ المستودع
@@ -107,14 +94,8 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 # الدخول إلى المجلد
 cd speedfusion-pwa
 
-# افتح index.html في متصفحك
-```
-
-<!-- SECTION_STRUCTURE -->
-
 📁 هيكل المشروع (Project Structure)
-
-```
+# افتح index.html في متصفحك
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -150,13 +131,9 @@ cd speedfusion-pwa
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
-```
 
 تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
-
 ---
-
-<!-- SECTION_WHY -->
 
 🏆 لماذا SpeedFusion Pro؟
 
@@ -165,22 +142,11 @@ cd speedfusion-pwa
 · ✅ الأكثر أماناً - تشفير وحماية متطورة
 · ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
 
-<!-- SECTION_REAL_SCREENSHOTS -->
-
-📸 لقطات الشاشة الحقيقية
-
-الصفحة الرئيسية إعدادات DNS الإحصائيات اختيار سيرفر
-<img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1.jpg" width="150"> <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/2.jpg" width="150"> <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/3.jpg" width="150"> <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/4.jpg" width="150">
-
-لقطات شاشة حقيقية للتطبيق أثناء العمل
-
-<!-- SECTION_FOOTER -->
-
 <div align="center">
     © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
     <br>
     <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
-```
+EOF
 
 ---
