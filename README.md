@@ -61,6 +61,31 @@
 3. اضغط "Package for Stores" → Android
 4. حمل ملف APK وثبته على هاتفك
 
+---
+
+##📄 سياسة الخصوصية
+
+نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
+
+🤝 المساهمة
+
+نرحب بمساهماتكم! يمكنك:
+
+· فتح Issue
+· إرسال Pull Request
+· اقتراح ميزات جديدة
+
+📞 التواصل
+
+· GitHub: @bakil309275-cell
+· البريد الإلكتروني: support@speedfusion-pro.com
+
+📜 الترخيص
+
+هذا المشروع مرخص تحت MIT License.
+
+---
+
 ## 🔧 التطوير المحلي
 ```bash
 # استنساخ المستودع
@@ -69,6 +94,7 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 # الدخول إلى المجلد
 cd speedfusion-pwa
 
+📁 هيكل المشروع (Project Structure)
 # افتح index.html في متصفحك
 📦 speedfusion-pwa
 ├── 📄 README.md
@@ -108,33 +134,18 @@ cd speedfusion-pwa
 
 ---
 
-<div align="left">
-  <sub>
-    <strong>شيخ سامع / بكيل العيسائي</strong><br>
-    <em>AL-YEMENI 🇾🇪</em>
-  </sub>
+🏆 لماذا SpeedFusion Pro؟
+
+· ✅ الأسرع - خوارزميات تحسين فريدة
+· ✅ الأذكى - يتعلم من استخدامك ويتكيف معك
+· ✅ الأكثر أماناً - تشفير وحماية متطورة
+· ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
+
+<div align="center">
+    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
+    <br>
+    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
-
-## 📄 سياسة الخصوصية
-
-نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
-
-🤝 المساهمة
-
-نرحب بمساهماتكم! يمكنك:
-
-· فتح Issue
-· إرسال Pull Request
-· اقتراح ميزات جديدة
-
-📞 التواصل
-
-· GitHub: @bakil309275-cell
-· البريد الإلكتروني: support@speedfusion-pro.com
-
-📜 الترخيص
-
-هذا المشروع مرخص تحت MIT License.
+EOF
 
 ---
-
