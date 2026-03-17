@@ -1,5 +1,4 @@
 
-
 ```markdown
 <p align="center">
   <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
@@ -50,12 +49,9 @@
 - GitHub Pages
 
 ## 📱 لقطات الشاشة
-
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
 | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> |
-
-*لقطات شاشة حقيقية للتطبيق متاحة في الأسفل*
 
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
@@ -149,12 +145,6 @@ cd speedfusion-pwa
 · ✅ الأكثر أماناً - تشفير وحماية متطورة
 · ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
 
-<div align="center">
-    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
-    <br>
-    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
-</div>
-
 📸 لقطات الشاشة الحقيقية
 
 الصفحة الرئيسية إعدادات DNS الإحصائيات اختيار سيرفر
@@ -162,13 +152,9 @@ cd speedfusion-pwa
 
 لقطات شاشة حقيقية للتطبيق أثناء العمل
 
+<div align="center">
+    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
+    <br>
+    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
+</div>
 ```
-
-### ✅ **ما تم تعديله:**
-1. **جدول PageSpeed** داخل ` ``` ` (يظهر بشكل صحيح)
-2. **أربعة أقسام تحت لقطات الشاشة** (الصفحة الرئيسية، إعدادات DNS، الإحصائيات، اختيار سيرفر)
-3. **أربع أيقونات** بحجم 100px
-4. **عنوان ملون** للقسم الأخير "لقطات الشاشة الحقيقية"
-5. **روابط الصور** تعمل جميعها
-
-**انسخ النص بالكامل والصقه.**
