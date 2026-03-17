@@ -48,7 +48,7 @@
 ## 📱 لقطات الشاشة
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
-| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-196x196.png) |
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-192x192.png) |
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
@@ -63,13 +63,13 @@
 
 ## 🔧 التطوير المحلي
 ```bash
-## استنساخ المستودع
+# استنساخ المستودع
 git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 
-## الدخول إلى المجلد
+# الدخول إلى المجلد
 cd speedfusion-pwa
 
-## افتح index.html في متصفحك
+# افتح index.html في متصفحك
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -105,7 +105,6 @@ cd speedfusion-pwa
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
-
 
 ---
 
