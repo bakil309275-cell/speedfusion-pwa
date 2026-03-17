@@ -121,6 +121,6 @@ cd speedfusion-pwa
 
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
-| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="screenshots/4.jpg" width="150"> |
+| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/4.jpg" width="150"> |
 
 > لقطات شاشة حقيقية للتطبيق أثناء العمل
