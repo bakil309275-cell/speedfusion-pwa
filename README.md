@@ -1,5 +1,6 @@
+```markdown
 <p align="center">
-  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
+  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="150" height="150">
 </p>
 
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
@@ -10,6 +11,15 @@
 
 ## 🏆 إنجاز PageSpeed Insights
 
+```
+
+╔══════════════════════════════════════╗
+║    100%  ║  100%  ║  100%  ║  100%  ║
+║  الأداء  │إمكانية │أفضل    │  تحسين │
+║          │الوصول  │الممارسات│محركات │
+╚══════════════════════════════════════╝
+
+```
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -37,10 +47,13 @@
 - LocalStorage API
 - GitHub Pages
 
-## 📱 لقطات الشاشة
-| الشاشة الرئيسية | إعدادات DNS | الإحصائيات |
-|-----------------|-------------|------------|
-| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |
+## 📸 لقطات الشاشة
+
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="screenshots/4.jpg" width="150"> |
+
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
 
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
@@ -63,6 +76,34 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 cd speedfusion-pwa
 
 # افتح index.html في متصفحك
+```
+
+📄 سياسة الخصوصية
+
+نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
+
+🤝 المساهمة
+
+نرحب بمساهماتكم! يمكنك:
+
+· فتح Issue
+· إرسال Pull Request
+· اقتراح ميزات جديدة
+
+📞 التواصل
+
+· GitHub: @bakil309275-cell
+· البريد الإلكتروني: support@speedfusion-pro.com
+
+📜 الترخيص
+
+هذا المشروع مرخص تحت MIT License.
+
+---
+
+📁 هيكل المشروع (Project Structure)
+
+```
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -95,32 +136,31 @@ cd speedfusion-pwa
 │   ├── 📄 README.md
 │   ├── 📁 icons/
 │   │   └── ... (نفس الأيقونات)
+│   ├── 📁 screenshots/
+│   │   ├── 📄 1.jpg
+│   │   ├── 📄 2.jpg
+│   │   ├── 📄 3.jpg
+│   │   └── 📄 4.jpg
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
+```
 
+تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
 
 ---
 
-<div align="left">
-  <sub>
-    <strong>شيخ سامع / بكيل العيسائي</strong><br>
-    <em>AL-YEMENI 🇾🇪</em>
-  </sub>
+🏆 لماذا SpeedFusion Pro؟
+
+· ✅ الأسرع - خوارزميات تحسين فريدة
+· ✅ الأذكى - يتعلم من استخدامك ويتكيف معك
+· ✅ الأكثر أماناً - تشفير وحماية متطورة
+· ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
+
+<div align="center">
+    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
+    <br>
+    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
-
-## 📸 لقطات الشاشة
-
-| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|-------------|---------------|
-| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154692.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154704.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154715.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154725.jpg" width="150"> |
-
-> لقطات شاشة حقيقية للتطبيق أثناء العمل
-
-## 📸 لقطات الشاشة
-
-| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|-------------|---------------|
-| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="https://github.com/bakil309275-cell/speedfusion-pwa/blob/main/docs/screenshots/4.jpg?raw=true" width="150"> |
-
-> لقطات شاشة حقيقية للتطبيق أثناء العمل
+```
+تحديث README.md إلى النسخة النهائية
