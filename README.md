@@ -1,3 +1,5 @@
+
+```markdown
 <p align="center">
   <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
@@ -10,14 +12,15 @@
 
 ## 🏆 إنجاز PageSpeed Insights
 
----
+```
 
 ╔══════════════════════════════════════╗
 ║    100%  ║  100%  ║  100%  ║  100%  ║
 ║  الأداء  │إمكانية │أفضل    │  تحسين │
 ║          │الوصول  │الممارسات│محركات │
 ╚══════════════════════════════════════╝
----
+
+```
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -46,9 +49,13 @@
 - GitHub Pages
 
 ## 📱 لقطات الشاشة
+
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
-| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-192x192.png) |
+| <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> | <img src="docs/icons/icon-192x192.png" width="100"> |
+
+*هذه أيقونات تمثيلية - لقطات الشاشة الحقيقية موجودة في الأسفل*
+
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
@@ -61,9 +68,18 @@
 3. اضغط "Package for Stores" → Android
 4. حمل ملف APK وثبته على هاتفك
 
----
+## 🔧 التطوير المحلي
+```bash
+# استنساخ المستودع
+git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 
-##📄 سياسة الخصوصية
+# الدخول إلى المجلد
+cd speedfusion-pwa
+
+# افتح index.html في متصفحك
+```
+
+📄 سياسة الخصوصية
 
 نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
 
@@ -86,16 +102,9 @@
 
 ---
 
-## 🔧 التطوير المحلي
-```bash
-# استنساخ المستودع
-git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
-
-# الدخول إلى المجلد
-cd speedfusion-pwa
-
 📁 هيكل المشروع (Project Structure)
-# افتح index.html في متصفحك
+
+```
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -131,6 +140,9 @@ cd speedfusion-pwa
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
+```
+
+تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
 
 ---
 
@@ -146,6 +158,7 @@ cd speedfusion-pwa
     <br>
     <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
-EOF
+```
 
 ---
+
