@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
@@ -10,13 +9,15 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 🏆 إنجاز PageSpeed Insights
+
+---
+
 ╔══════════════════════════════════════╗
 ║    100%  ║  100%  ║  100%  ║  100%  ║
 ║  الأداء  │إمكانية │أفضل    │  تحسين │
 ║          │الوصول  │الممارسات│محركات │
 ╚══════════════════════════════════════╝
-
-```
+---
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -46,9 +47,8 @@
 
 ## 📱 لقطات الشاشة
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|------------|------------|
-| ![الشاشة الرئيسية](docs/icons/icon-100x100.png) | ![إعدادات DNS](docs/icons/icon-198x198.png) | ![الإحصائيات](docs/icons/icon-197x197.png) | ![اختيار سرفر](docs/icons/icon-196x196.png) |
-
+|-----------------|-------------|-------------|---------------|
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-196x196.png) |
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
@@ -63,39 +63,13 @@
 
 ## 🔧 التطوير المحلي
 ```bash
-# استنساخ المستودع
+## استنساخ المستودع
 git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 
-# الدخول إلى المجلد
+## الدخول إلى المجلد
 cd speedfusion-pwa
 
-# افتح index.html في متصفحك
-
-# افتح index.html في متصفحك
-```
-
-📄 سياسة الخصوصية
-
-نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
-
-🤝 المساهمة
-
-نرحب بمساهماتكم! يمكنك:
-
-· فتح Issue
-· إرسال Pull Request
-· اقتراح ميزات جديدة
-
-📞 التواصل
-
-· GitHub: @bakil309275-cell
-· البريد الإلكتروني: support@speedfusion-pro.com
-
-📜 الترخيص
-
-هذا المشروع مرخص تحت MIT License.
-
----
+## افتح index.html في متصفحك
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -132,19 +106,36 @@ cd speedfusion-pwa
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
 
+
 ---
 
-🏆 لماذا SpeedFusion Pro؟
-
-· ✅ الأسرع - خوارزميات تحسين فريدة
-· ✅ الأذكى - يتعلم من استخدامك ويتكيف معك
-· ✅ الأكثر أماناً - تشفير وحماية متطورة
-· ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
-
-<div align="center">
-    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
-    <br>
-    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
+<div align="left">
+  <sub>
+    <strong>شيخ سامع / بكيل العيسائي</strong><br>
+    <em>AL-YEMENI 🇾🇪</em>
+  </sub>
 </div>
-EOF
-```
+
+## 📄 سياسة الخصوصية
+
+نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
+
+🤝 المساهمة
+
+نرحب بمساهماتكم! يمكنك:
+
+· فتح Issue
+· إرسال Pull Request
+· اقتراح ميزات جديدة
+
+📞 التواصل
+
+· GitHub: @bakil309275-cell
+· البريد الإلكتروني: support@speedfusion-pro.com
+
+📜 الترخيص
+
+هذا المشروع مرخص تحت MIT License.
+
+---
+
