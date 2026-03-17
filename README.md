@@ -1,7 +1,8 @@
 
+
 ```markdown
 <p align="center">
-  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="150" height="150">
+  <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
 
 # ⚡ SpeedFusion Pro - التطبيق الأسرع في العالم
@@ -52,7 +53,7 @@
 
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
 |-----------------|-------------|-------------|---------------|
-| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/2.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/3.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/4.jpg" width="150"> |
+| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="https://github.com/bakil309275-cell/speedfusion-pwa/blob/main/docs/screenshots/4.jpg?raw=true" width="150"> |
 
 > لقطات شاشة حقيقية للتطبيق أثناء العمل
 
@@ -164,3 +165,4 @@ cd speedfusion-pwa
     <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
 ```
+
