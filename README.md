@@ -1,6 +1,4 @@
-✅ الملف النهائي مع جميع التعديلات (انسخه بالكامل)
 
-```markdown
 <p align="center">
   <img src="docs/icons/icon-256x256.png" alt="SpeedFusion Pro Logo" width="250" height="250" style="border-radius: 20px;">
 </p>
@@ -12,9 +10,6 @@
 ![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 🏆 إنجاز PageSpeed Insights
-
-```
-
 ╔══════════════════════════════════════╗
 ║    100%  ║  100%  ║  100%  ║  100%  ║
 ║  الأداء  │إمكانية │أفضل    │  تحسين │
@@ -49,13 +44,10 @@
 - LocalStorage API
 - GitHub Pages
 
-## 📸 لقطات الشاشة
-
+## 📱 لقطات الشاشة
 | الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|-------------|---------------|
-| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/1.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/2.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/3.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/docs/screenshots/4.jpg" width="150"> |
-
-> لقطات شاشة حقيقية للتطبيق أثناء العمل
+|-----------------|-------------|------------|------------|
+| ![الشاشة الرئيسية](docs/icons/icon-100x100.png) | ![إعدادات DNS](docs/icons/icon-198x198.png) | ![الإحصائيات](docs/icons/icon-197x197.png) | ![اختيار سرفر](docs/icons/icon-196x196.png) |
 
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
@@ -76,6 +68,8 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 
 # الدخول إلى المجلد
 cd speedfusion-pwa
+
+# افتح index.html في متصفحك
 
 # افتح index.html في متصفحك
 ```
@@ -102,10 +96,6 @@ cd speedfusion-pwa
 هذا المشروع مرخص تحت MIT License.
 
 ---
-
-📁 هيكل المشروع (Project Structure)
-
-```
 📦 speedfusion-pwa
 ├── 📄 README.md
 ├── 📄 LICENSE
@@ -138,17 +128,9 @@ cd speedfusion-pwa
 │   ├── 📄 README.md
 │   ├── 📁 icons/
 │   │   └── ... (نفس الأيقونات)
-│   ├── 📁 screenshots/
-│   │   ├── 📄 1.jpg
-│   │   ├── 📄 2.jpg
-│   │   ├── 📄 3.jpg
-│   │   └── 📄 4.jpg
 │   ├── 📄 .nojekyll
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
-```
-
-تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
 
 ---
 
@@ -164,5 +146,5 @@ cd speedfusion-pwa
     <br>
     <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
 </div>
+EOF
 ```
-
