@@ -10,14 +10,6 @@
 
 ## 🏆 إنجاز PageSpeed Insights
 
----
-
-╔══════════════════════════════════════╗
-║    100%  ║  100%  ║  100%  ║  100%  ║
-║  الأداء  │إمكانية │أفضل    │  تحسين │
-║          │الوصول  │الممارسات│محركات │
-╚══════════════════════════════════════╝
----
 
 ✅ **حققنا الكمال التام (100/100) في جميع الفئات!**
 
@@ -46,9 +38,10 @@
 - GitHub Pages
 
 ## 📱 لقطات الشاشة
-| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
-|-----------------|-------------|-------------|---------------|
-| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |![اختيار سرفر](docs/icons/icon-192x192.png) |
+| الشاشة الرئيسية | إعدادات DNS | الإحصائيات |
+|-----------------|-------------|------------|
+| ![الشاشة الرئيسية](docs/icons/icon-192x192.png) | ![إعدادات DNS](docs/icons/icon-192x192.png) | ![الإحصائيات](docs/icons/icon-192x192.png) |
+
 ## 🚀 البدء السريع
 1. افتح الرابط: [speedfusion-pwa](https://bakil309275-cell.github.io/speedfusion-pwa/)
 2. جرب زر "ابدأ التحسين الفوري"
@@ -61,31 +54,6 @@
 3. اضغط "Package for Stores" → Android
 4. حمل ملف APK وثبته على هاتفك
 
----
-
-##📄 سياسة الخصوصية
-
-نحن نهتم بخصوصيتك. راجع سياسة الخصوصية الكاملة.
-
-🤝 المساهمة
-
-نرحب بمساهماتكم! يمكنك:
-
-· فتح Issue
-· إرسال Pull Request
-· اقتراح ميزات جديدة
-
-📞 التواصل
-
-· GitHub: @bakil309275-cell
-· البريد الإلكتروني: support@speedfusion-pro.com
-
-📜 الترخيص
-
-هذا المشروع مرخص تحت MIT License.
-
----
-
 ## 🔧 التطوير المحلي
 ```bash
 # استنساخ المستودع
@@ -94,7 +62,6 @@ git clone https://github.com/bakil309275-cell/speedfusion-pwa.git
 # الدخول إلى المجلد
 cd speedfusion-pwa
 
-📁 هيكل المشروع (Project Structure)
 # افتح index.html في متصفحك
 📦 speedfusion-pwa
 ├── 📄 README.md
@@ -132,20 +99,28 @@ cd speedfusion-pwa
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
 
+
 ---
 
-🏆 لماذا SpeedFusion Pro؟
-
-· ✅ الأسرع - خوارزميات تحسين فريدة
-· ✅ الأذكى - يتعلم من استخدامك ويتكيف معك
-· ✅ الأكثر أماناً - تشفير وحماية متطورة
-· ✅ المجاني الوحيد - بدون إعلانات، بدون رسوم خفية
-
-<div align="center">
-    © 2026 SpeedFusion Pro - صنع في اليمن 🇾🇪
-    <br>
-    <sub><strong>شيخ سامع / بكيل العيسائي</strong> 🇾🇪</sub>
+<div align="left">
+  <sub>
+    <strong>شيخ سامع / بكيل العيسائي</strong><br>
+    <em>AL-YEMENI 🇾🇪</em>
+  </sub>
 </div>
-EOF
 
----
+## 📸 لقطات الشاشة
+
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154692.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154704.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154715.jpg" width="150"> | <img src="https://raw.githubusercontent.com/bakil309275-cell/speedfusion-pwa/main/screenshots/1773695154725.jpg" width="150"> |
+
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
+
+## 📸 لقطات الشاشة
+
+| الصفحة الرئيسية | إعدادات DNS | الإحصائيات | اختيار سيرفر |
+|-----------------|-------------|-------------|---------------|
+| <img src="screenshots/1.jpg" width="150"> | <img src="screenshots/2.jpg" width="150"> | <img src="screenshots/3.jpg" width="150"> | <img src="screenshots/4.jpg" width="150"> |
+
+> لقطات شاشة حقيقية للتطبيق أثناء العمل
