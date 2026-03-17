@@ -132,7 +132,6 @@ cd speedfusion-pwa
 │   └── 📄 googlecaded6d1e4eef154.html
 └── 📁 .git/
 
-تم إنشاء هذا الهيكل بواسطة أداة GitHubTree
 ---
 
 🏆 لماذا SpeedFusion Pro؟
